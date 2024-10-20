@@ -14,11 +14,6 @@ When you are done, contact me and I'll add the file to installation folder in ne
 Contact: https://discord.gg/T5DJaJJT75
 
 -------------------------------------------------------------------------------
-Don't forget to support me for more missions.
-https://www.patreon.com/greenflag
-https://www.buymeacoffee.com/greenflag
-https://www.paypal.com/donate/?hosted_button_id=FGMDUNG56SEA8
-
 
 Enjoy the game. :-)
 Sincerely
