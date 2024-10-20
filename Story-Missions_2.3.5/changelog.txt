@@ -1,0 +1,786 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.3.5
+Date: 2023.05.11
+  Changes:
+    - Migration update, if you have still problem with burner inserters
+    - Fixed an duplicated locales in Mission 10
+    - Small language fix in EN version for Mission 5
+  Notes: 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.3.4
+Date: 2023.05.08
+  Changes:
+    - Attention. Do not update the mod before you finish your current mission
+    - In Mission 6 added small iron and copper deposits on your side of the base (go south to find them)
+    - In Mission 6 improved terrain
+    - In Mission 6 added more tresure chests
+    - In Mission 6 fixed an issue with missing fuel in enemy burner inserter in the north-east base
+    - In Mission 7 fixed an issue with missing fuel in enemy burner inserter at coal outpost in the mountains
+    - In Mission 7 improved terrain in the Sanctuary area
+  Notes:
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.3.3
+Date: 2023.05.01
+  Changes:
+    - Attention. Do not update the mod before you finish your current mission
+    - Fixed an issue that burner inserterters doesnt work (note, let me know if you find any)
+  Notes:
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.3.2
+Date: 2023.04.17
+  Changes:
+    - Attention. Do not update the mod before you finish your current mission
+    - Improved game reload script 
+    - Updated RU translation (special thanks to Shadow_man)
+    - Mission 5 and 8 KO translation fixes (special thanks to E.V.Adler)
+    - Mission 10 wrong scenario map returned to original
+  Notes:
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.3.1
+Date: 2023.04.09
+  Changes:
+    - Note. Do not update the mod before you finish your current mission
+    - Improved difficulty level system 
+    - In Mission 3 you will no longer loose the mission after reaching the 5 hour timer
+    - In Mission 3 there will be huge spawn of enemy biters after reaching the 5 hour timer
+    - In Mission 3 if the nuke power plant is destroyed or you die, you will still loose the game
+    - In Mission 3 if you have objective Destroy Turbines after reaching the 5 hour timer it will nothing happend
+    - In Mission 4 objective Destroy Centrifuges is now shown on the map
+    - In Mission 6 greatly improved terrain
+    - In Mission 6 added new structures nearby nuclear plant 
+    - In Mission 6 added more defences on both sides of the river
+    - In Mission 6 added small ammo production nearby the mining area for easier access ammonition for gun turrets 
+    - In Mission 6 objective Relcoate red chest is increased number from 2 to 8
+    - In Mission 6 objective Build labs decreased number to 4 and you will no longer get a negative value if you deconstruct the existing lab
+    - In Mission 6 decreased starting evolution factor on normal difficulty from 30 to 25
+    - In Mission 6 increased number of items in logistic storage chest
+    - In Mission 6 added tutorial for using logistic system, this will not show on Hard difficulty
+    - In Mission 7 you will no logner loose the combine iron/copper mine in sand area near the Docks, if you playing too long 
+    - In Mission 8 reduced research factor on normal difficulty from 2 to 1.2
+    - Added special script which should prevent unexpected loading of free world level, please let me now if you find any other issue 
+  Notes:
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.3.0
+Date: 2023.03.19
+  Changes:
+    - New difficulty level system added
+    - New difficulty description added to all missions (EN only)
+    - Mission 1 polished terrain
+    - Mission 5 changed ressearch objectives from laser, tank, exp. rocketry to land mines and rocketry
+    - Mission 5 polished terrain
+    - Mission 6 polished terrain
+  Notes:
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.9
+Date: 2022.08.6
+  Changes:
+    - Mission 9 is now avaiable
+    - Mission 9 fixed missing research for personal roboport
+    - Mission 8 fixed missing research for personal roboport
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.8
+Date: 2022.07.29
+  Changes:
+    - Mission 9 is now avaiable
+    - Implemented migrations, this should help with problem of loading new levels between versions
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.7
+Date: 2022.07.24
+  Changes:
+    - Mission 9 is now avaiable
+    - In mission 4 fixed an issue with slow ore loading inserters in the military base
+    - In mission 4 fixed an issue with possible minable objects in the military base
+    - In mission 6 fixed an issue with objective translation (relocate passive prover chests) in RU
+    - In mission 6 added more passive provider chests on the map
+    - In mission 6 added one more logistic storage chest to your inventory from start
+    - In mission 6 improved terrain and decals
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.6
+Date: 2022.07.23
+  Changes:
+    - Mission 9 is now avaiable
+    - Added es-ES language (only first 5 missions, special thanks to Chan-pu)
+    - Improved tranlsation of RU language (special thanks to Shadow_Man)
+    - In mission (10) fixed languages issues 
+    - In mission 9 fixed an issue with power in enemy main base
+    - In mission 9 fixed an issue with transport belts in enemy main base
+    - In mission 9 added 2 more spidetrons in enemy main base
+    - In mission 9 reduced number of construction bots in spidetron located in Northeastern base
+    - In mission 9 slightly changed a position of some enemy spidertrons
+    - In mission 9 improved terrain in enemy base 
+    - In mission 5 improved terrain and decals
+    - In mission 5 all enemy labs start working after completing advanced weapons research objective
+    - In mission 5 enemy research of artillery range will take more time
+    - In mission 5 reduced number of enemy turrets and nests defending the enemy labs
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.5
+Date: 2022.07.17
+  Changes:
+    - Mission 9 is now avaiable
+    - In mission 9 added zh-CN language (thx to plexpt)
+    - In mission 9 added more enemy artillery turrets in their main base
+    - In mission 9 added more roboports in enemy main base
+    - In mission 9 artillery wagons are no longer minebale in optional objective to capture them 
+    - In mission 9 reduced number of artillery ammunition in tresure chests
+    - In mission 9 northeastern spidertron on enemy main base reduced ammunition of rockets, but still carry 2 nukes 
+    - In mission 9 improved terrain decals
+    - In mission 5 fixed small grammar mistakes in EN language 
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.4
+Date: 2022.07.07
+  Changes:
+    - Mission 9 is now avaiable
+    - In mission 9 added KO language (thx to E.V.Adler)
+    - In mission 9 fixed an issue when objective building the silo with robots doesnt count
+    - In mission 9 added ping possitions of some objectvies which are shown now on minimap
+    - In mission 9 fixed an issue witn unexpected error during cinematic scenes
+    - In mission 8 fixed an issue when objective building the accumulators with robots doesnt count
+    - In mission 7 fixed font issue in RU language 
+    - In mission 7 changed character names in RU to be more lore friendly
+    - In mission 7 fixed small grammar and font mistakes in CZ language 
+    - In mission 4 fixed small grammar mistakes in EN language 
+    - Fixed an issue with cinematic scenes which can cause you an unexpected error if you using cheats
+    - Fixed an issue where player in rare cases could die during the cinematic scenes because he wasnt invincible
+    - Rampart mod is now in conflict
+    - Krastorio2 mod is now in conflict
+    - Space Exploration mod is now in conflict
+    - Bobs libraries is now in conflict
+    - Updated construction bots mod is now in conflict, otherwise this mod will steal your supplies and support enemies
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.3
+Date: 2022.07.04
+  Changes:
+    - Mission 9 is now avaiable
+    - In mission 8 fixed incorrect evolution factor after bombartment (mission is easier now)
+    - In mission 9 added RU language (thx to Shadow_Man)
+    - In mission 9 changed number of ammunition of enemy Spidertrons in southern and enemy main base
+    - In mission 9 some minor terrain improvments
+    - In mission 9 builded new track between enemy main base and southern fuel depo
+    - In mission (10) fixed issue with bad mission number
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.2
+Date: 2022.07.03
+  Changes:
+    - Mission 9 is now avaiable, please leave me feedback on discord
+    - In mission 1 fixed an issue with camera after you enter the car 
+    - In mission 1 added one friendly gun turret nearby the Outer Base mines
+    - In mission 2 some minor terrain improvments and space port changes
+    - In mission 7 the second pirate train will leave pirate outpost when player get access to second hijack objective
+    - In mission 7 the second pirate train now holding additional loot
+    - In mission 7 some minor terrain improvments
+    - In mission 7 added tips and tricks connect train
+    - In mission 8 changed camera interaction in cinematic scenes (you will not see difference)
+    - In mission 8 fixed some camera issues
+    - In mission 8 some minor terrain improvments
+    - In mission 8 minor change in timing when engineer speaks
+    - In mission 9 fixed issue with unfriendly crate on the south oil fields
+    - In mission 9 fixed some grammar mistakes in EN locale
+    - In mission 9 enemy expansion will now start after collecting all rockect control units
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.2.0
+Date: 2022.06.12
+  Changes:
+    - Mission 9 is now avaiable for beta testing
+    - In mission 2 fixed issues with Hell's Gate trains 
+    - In mission 2 improved production on Hell's Gate facility
+    - In mission 7 additional intel text description added
+    - In mission 7 fixed power issues in allied base
+    - In mission 7 allied base no longer target player drones
+    - In mission 7 added more friendly gun towers near roboport in the harbour/depo
+    - In mission 7 added secret production area near uranium mines
+    - In mission 8 improved objective description in Triumph Station
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 9 beta testing - this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.7
+Date: 2022.04.16
+  Changes:
+    - Chinese language added to mission 8 (special thx to plexpt)
+    - In mission 8 completely rebuilded Dune base (pictures on discord)
+    - In mission 8 terrain changes
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 9 work in progress (design 95% completed, scripting 60% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.6
+Date: 2022.04.02
+  Changes:
+    - German language added to all mission (special thx to Sirin)
+    - Poland language updated in mission 8 (special thx to Ziomek24)	
+    - In mission 5 added more stone deposits
+    - In mission 7 improved terrain
+    - In mission 8 improved terrain
+    - In mission 8 added some new structures in the Dune Base
+    - In mission 8 terrain changes in the Dune Base
+    - In mission 8 second invetory objective reduced number of stack insterters from 100 to 50
+  Bugfix:
+    - Fixed missing research electric-energy-distribution-2 in missions 5,6,7,8
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 9 work in progress (design 95% completed, scripting 60% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.5
+Date: 2022.03.23
+  Bugfix:
+    - Fixed mission 8 KO language
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Language DE outdated
+    - Mission 9 work in progress (design 95% completed, scripting 60% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.4
+Date: 2022.03.14
+  Changes:
+    - In mission 8 added FR language (special thx to Teneombre)
+    - In mission 8 added 2 furnaces for stone in Triumph Station
+    - Added Post Ending Tittles to Last Mission (Mission 9)
+    - In mission 7 minor terrain changes
+  Bugfix:
+    - In some missions fixed EN text typhos
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - All new missions are not translated in language DE
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.3
+Date: 2022.03.06
+  Changes:
+    - In mission 8 added Korean language (special thx to x2605 and E.V.Adler)
+    - In mission 8 removed beta test story lines
+    - In mission 8 increased difficulty when you reach Triumph Base 
+    - In mission 8 enabled evolution when you reach Triumph Base 
+    - In mission 8 enabled biter expansion when you reach Dune Base 
+    - In mission 8 terrain changes
+    - In mission 8 drastically reduced ressources in Crystal Peak and Triumph Base
+    - In mission 8 removed some crude oil deposits in Crystal Peak and Triumph Base
+    - In mission 8 changed items to gather in second inventory objective
+    - In mission 8 added labs in Dune Base
+    - In mission 8 additional new tresure chests with more science packs
+    - In mission 8 when you reach Triumph Base uranium proccesing will be researched
+    - In mission 8 when you reach Triumph Base nuke power will be researched
+    - In mission 7 increased HP of your inicial car from 220 to 250
+    - In mission 7 increased HP of the last barricade (gate) from 105 to 108 in the first train chase 
+    - In mission 7 added story about the railway system (why you cannot destroy it) to be more immersive
+    - In mission 7 added story exception for deconstruction of the railway for Riverside
+    - In mission 7 rebuilded allied artilery provider chests to properly run the final objective script
+  Bugfix:
+    - In mission 8 terrain fixes
+    - In some missions fixed EN text typhos
+    - In mission 6 removed small (fake) coal deposit near the power plant
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - All new missions are not translated in language DE
+    - Mission 8 is translated only in EN, CZ, SK, RU
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.2
+Date: 2022.03.02
+  Changes:
+    - WARNING. MISSION 8 IS IN BETA TESTING, YOU CAN EXPERIENCE BUGS
+    - Reduced again difficulty of mission 8
+    - In mission 8 terrain a resources changes
+    - In mission 8 added many tresure chests
+    - In mission 8 tips and trick about discharge defence
+    - In mission 8 increased number of bots in spidertron inventory
+    - In mission 8 reduced number of nests around first base
+    - In mission 8 added RU language (thx Shadow_man)
+  Bugfix:
+    - Some sentence fixes
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - All new missions are not translated in language DE
+    - Mission 8 is translated only in EN, CZ, SK, RU
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 2022.02.27
+  Changes:
+    - WARNING. MISSION 8 IS IN BETA TESTING, YOU CAN EXPERIENCE BUGS
+    - Reduced difficulty of mission 8
+    - In mission 8 changed the way how to evolving biters
+    - In mission 8 plastic ressearch is completed from the start 
+    - In mission 8 sulfur ressearch is completed from the start 
+    - In mission 8 terrain a resources changes
+    - In mission 8 added some tresure chests
+  Bugfix:
+    - Just hotfix in changelog
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - All new missions are not translated in language DE
+    - Mission 8 is translated only in EN, CZ, SK
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2022.02.27
+  Changes:
+    - New mission 8
+    - WARNING. MISSION 8 IS IN BETA TESTING, YOU CAN EXPERIENCE BUGS
+  Bugfix:
+    - local RU fixes (special thanks to Shadow_man)
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - All new missions are not translated in language DE
+    - Mission 8 is translated only in EN, CZ, SK
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.8
+Date: 2022.02.23
+  Bugfix:
+    - local KO fixes (special thanks to x2605)
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 90% completed, story 85% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.7
+Date: 2022.02.20
+  Changes:
+    - Added Korean language (special thanks to x2605)
+    - In mission 7 terrain changes
+  Bugfix:
+    - In mission 7 fixed script with spawning ground
+    - In mission 3 local zh-CN fixes (special thanks to plexpt)
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 80% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.6
+Date: 2022.02.20
+  Changes:
+    - Added Chinese 简体中文 language (special thanks to plexpt)
+    - Reduced pictures MB weight (mod pack is now smaller on disc userage)
+    - In mission 4 additional terrain changes
+    - In mission 6 additional terrain and ressources changes
+    - In mission 6 added small pirate outposts
+    - In mission 7 reduced HP of the car from 260 to 220
+    - In mission 7 when you get "waiting objective", more biters should spawn around you 
+    - In mission 7 now whole map is separated from 2 to 3 parts, last part will unlock after you finish objective "secure 3 mines"
+    - In mission 7 terrain and small railway changes
+  Bugfix:
+    - In mission 6 fixed enemy base where production does not work properly
+    - In mission 7 local RU font fixes (special thanks to Shadow_man)
+    - In mission 7 fixed issue with Stillwater cinematic, where text buble was displayed to late
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 80% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.5
+Date: 2022.02.07
+  Changes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - ...
+    - In mission 6 minor terrain changes
+  Bugfix:
+    - In mission 7 fixed a railway cross in the Riverside
+    - In mission 6 fixed an issue, if enemy roboports are destroyed, you can lose the game
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 70% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.4
+Date: 2022.02.06
+  Changes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - ...
+    - In mission 5 changed some neutral forces to player forces
+    - In mission 6 added more items to the tresure chests
+    - In mission 6 changed red chest to capsule chest
+    - In mission 6 changed description of some objectives
+    - In mission 6 improved terrain
+    - In mission 7 added some ammunition to sentry turrets in Riverside, Southpass, Desert and Crater
+    - In mission 7 added some ammunition to player from the start
+    - In mission 7 railway in Riverside base is destructable and minable
+    - In mission 7 in allied base are now unfriendly laser towers which can destroy the player robots, do not try to build or steal things there
+    - In mission 7 added notification about continuing of resupply the allied base by artilery shells
+    - Updated RU translation (specal thanks to Shadow_man) 
+  Bugfix:
+    - In mission 7 fixed issue in last objective, where you must put to friendly passive provider chest more artillery shells
+    - In mission 6 fixed an issue, where you getting bad objective description, when you building labs
+    - In mission 6 fixed an issue, if you destroyed radars before objective, you will not win
+  Notes:
+    - Big_Brother mod is in conflict. Some missions do not work, if you have it
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 70% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+Date: 2022.01.22
+  Changes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - ...
+    - In mission 2 some terrain improvments
+    - In mission 6 changed objective "build 100 transport belts" to "Relocate 2 passive provider chests"
+    - In mission 7 changed possition of some biter nests
+    - In mission 7 some enemy bases begin active sooner
+  Bugfix:
+    - Fixed issue, where bitter can attack on non-active player bases in mission 7
+    - Buidling with construction bots in objectives in mission 6 is counted now 
+    - Fixed discord link
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instruction on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 70% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2022.01.18
+  Changes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instructions on mod portal.
+    - ...
+    - New menu image
+    - Some changes in text coloring
+  Bugfix:
+    - Hotfix for RU, PL, CZ, SK languages issues
+    - Hotfix for error in CZ/SK version in mission 6
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instructions on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 70% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2022.01.17
+  Changes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instructions on mod portal.
+    - ...
+    - Added languages RU and PL to Mission 6 and 7 (special thanks to Shadow_Man and Ziomek24)
+    - In mission 6 improved some objectives and added new messages from engineer
+  Bugfix:
+    - Fixed critical issue in Mission 6, that can makes impossible to complete the mission
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instructions on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 70% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - All new missions are not translated in language DE
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2022.01.15
+  Changes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instructions on mod portal.
+    - ...
+    - New Mission 6 	
+    - New Mission 7 
+    - ...	
+    - Mission 1 is now more simplified, you can finish it much faster
+    - In mission 1 added new terrain changes
+    - In mission 1 added more base structures
+    - In mission 1 you can find more tresure chests
+    - In mission 1 improved intro description
+    - Mission 2 is now more simplified, you can finish it much faster
+    - In mission 2 added new terrain changes
+    - In mission 2 added more forgotten structures, you can now claim them
+    - In mission 2 improved intro description
+    - In mission 3 reduced difficulty of the biters
+    - In mission 3 improved intro description
+    - In mission 4 improved intro description
+    - In mission 4 added warnings about new weapon types avaiable to construct
+    - In mission 4 is increased time in obective "return to base" from 2 minutes to 3 minutes
+    - In mission 5 improved intro description
+    - In mission 5 post ending objective removed
+    - In mission 5 when you finish the game, you will continue to mission 6 (works only on files from this version) 
+    - In mission 5 regenerated map to reduce the memory capacity, it will now load faster
+    - In mission 5 middle enemy base is now more fortified
+    - In mission 5 added more enemy labs
+    - In mission 5 enemy can research level 2 artillery range
+  Bugfix:
+    - Repaired concretes in mission 1, 2, 3 and 5 where you could eventualy die during deconstruction
+    - In mission 4 wave defence is now correctly timed (it's even harder now)
+    - In mission 4 fixed problem with slow ressearch
+    - In mission 5 fixed some wrong builds in enemy bases
+  Notes:
+    - WARNING. If you finished mission 5 in version 1.1.4, it probably did not unlock the next mission 6. To repair this issue please follow instructions on mod portal.
+    - Mission 8 work in progress (design 95% completed, scripting 79% completed, story 70% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 45% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 15% completed) 
+    - In all new missions are not translations yet in these languages DE, RU, PL
+    - Problem with incorrect showing the missions in NEW GAME menu (Guess I will never fix it)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2021.10.31
+  Changes:
+    - Added language PL (special thanks to Ziomek24)
+    - Languages DE and RU updated 
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu
+    - Mission 6 work in progress (design 95% completed, scripting 75% completed, story 35% completed) 
+    - Mission 7 work in progress (design 10% completed, scripting 0% completed, story 5% completed) 
+    - Mission 8 work in progress (design 50% completed, scripting 5% completed, story 10% completed) 
+    - Mission 9 work in progress (design 95% completed, scripting 40% completed, story 25% completed) this is masterpiece
+    - Mission10 work in progress (design 70% completed, scripting 10% completed, story 10% completed) 
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2021.10.23
+  Changes:
+    - Improved resources in all missions
+    - Improved terrain in all missions
+    - Added "Mission objective" in all missions intro screens
+    - In mission 1 added more secret crates
+    - In mission 3 added more secret crates (and another small base somewhere)
+    - In mission 5 changed objective "research utility science pack" to "Research rocketry, tank and laser"
+    - In mission 5 added optional obective "research atomic bomb"
+    - In mission 5 added gates in Lost Point base
+    - In mission 5 changed power poles in Lost Point base
+    - Removed Jetpack from !depentencies (still I don't recoment to use it in my mod)
+  Bugfix:
+    - In mission 5 repaired electricity problem with some enemy laser turrets and mining drills
+    - In mission 5 added ammo missing in sentry gun turrets
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu
+    - Languages DE and RU need to be updated 
+    - Mission 6 work in progress (design 95% completed, scripting 75% completed, story 30% completed) 
+    - Mission 7 work in progress (design 10% completed, scripting 0% completed, story 5% completed) 
+    - Mission 8 work in progress (design 10% completed, scripting 0% completed, story 5% completed) 
+    - Mission 9 work in progress (design 90% completed, scripting 10% completed, story 15% completed) this is masterpiece
+    - Mission10 work in progress (design 60% completed, scripting 5% completed, story 5% completed) 
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2021.10.03
+  Changes:
+    - Added German Language (special thanks to unfunf22 aka hokinator22)
+    - Updated Russian Language (special thanks to Shadow_Man)
+  Bugfix:
+    - Changelog fixed in the game mod list
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2021.10.02
+  Bugfix:
+    - Just hotfix with missing objective in mission 3
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2021.10.02
+  Changes:
+    - Added new intro description screen, when you load missions (You will get more about the story and you'll get helpful intel(still work in progress)) 
+    - Added option to count spitter spawners as a kill in objectives "kill the bitter nests" in mission 1 
+    - In mission 1 objective "build chemical plant" changed value from 4 to 1 (it was pointless to build more)
+    - In mission 1 you cannot build chemical plant until you finish objective "box of 20 grenades"
+    - In mission 1 you cannot research automated railway transportation until you finish objective "build chemical plant"
+    - In mission 1 you cannot research tank until you finish objective "build 2 rail stops"
+    - In mission 1 added objective "Place tank on the ground" 
+    - In mission 1 added optional objective "Roadkill the nests by tank" 
+    - In mission 1 removed some items from the chests
+    - Added option to count evolved bitters and spitters as a kill in objectives "kill 50/200 bitters" in mission 2 (Note: this objective will be changed in future updates)
+    - In mission 2 you cannot research laser turret until you finish objective "build 10 pumpjacks"
+    - In mission 2 objective "have solid fuel in invetory" increased value from 150 to 250 (Note: this objective will be changed in future updates (r-chst))
+    - In mission 2 laser upgrades removed from tech tree
+    - In mission 2 rocetry removed from tech tree
+    - In mission 3 added more biter nests
+    - In mission 3 improved terrain 
+    - In mission 3 added some items to the chests
+    - In mission 3 changed some values of friendly buildings (now the biters should attack them too sometimes)
+    - In mission 3 optional objective "find outpost..." will show before objective "destroy blockade..."
+    - In mission 4 biters attack more often to player
+    - In mission 4 everytime when you destroy the pirate asembly machines, you will now get access to construct some weapons in your invetory (shotguns, machine-guns, grenades...)
+    - In mission 5 new tech available, atomic bomb
+  Bugfix:
+    - In mission 2 fixed some belts in the space port
+    - In mission 5 gun turrets are now counted in objective screen
+    - Some text changes in every mission
+  Incompatible:
+    - Bottleneck, can crash the game in mission 4 (thx to tim519 for report)
+    - Spidertron Start, can crash the game when you start (thx to CaptainSlide for report)
+    - Jetpack, breaking the game (what I can say, this is fly cheat (thx to CaptainSlide for report))
+    - Tiny Start, can crash the game in mission 5 (thx to CaptainSlide for report)
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+    - Update RU language is required
+    - Mission 6 work in progress (design 95% completed, scripting 70% completed, story 20% completed) 
+    - Mission 7 work in progress (design 10% completed, scripting 0% completed, story 5% completed) 
+    - Mission 8 work in progress (design 0% completed, scripting 0% completed, story 0% completed) 
+    - Mission 9 work in progress (design 10% completed, scripting 0% completed, story 5% completed) 
+    - Mission10 work in progress (design 60% completed, scripting 5% completed, story 5% completed) 
+---------------------------------------------------------------------------------------------------
+Version: 1.0.9
+Date: 2021.09.20
+  Changes:
+    - Added optional objective in mission 3 (find supply outpost)
+    - Some terrain changes in mission 1    
+    - Some terrain changes in mission 4
+    - In mission 4 enemy assembly machines can be seen on the map now
+  Bugfix:
+    - Some grammar correction in EN version
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8
+Date: 2021.09.18
+  Changes:
+    - Some minor changes in mission 5 (relocating nests)
+  Bugfix:
+    - fixed problem in mission 1 when your car was destroyed before completing pipeline objective, game could crash (special thanks to Shadow_Man)
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: 2021.09.18
+  Changes:
+    - Added RU Language (special thanks to Shadow_Man)
+    - In mission 4 changed third pirate base to prevent scavenge some valuable resources (yes, I make it harder for you now)
+    - In mission 4 added enemy sentry in destroyed warehouse
+    - In mission 4 added optional objective (hijack tank)
+    - In mission 4 is final defence a little bit harder
+    - Some terrain modification in mission 4  
+    - Some terrain modification in mission 5
+    - Improved resources for mission 5
+    - New objective in mission 5 to make the level longer (I promised 20h of gameplay, not 10-15) :-)
+  Bugfix:
+    - In mission 4 changed some parameters, when you enter the train to complete objective faster
+    - Fixed some missing nests in mission 4
+    - In mission 4 you cannot anymore destroy centrifuges before you finish previous objectives
+    - In mission 5 you cannot destroy the artilleries, until completing the utility-science objective
+    - In mission 5 added ammo to one forgotten enemy turret (spceial thanks to SirJMO)
+    - Tips & Tricks keybinds are not hardcoded anymore (special thanks to Bilka)
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2021.09.15
+  Changes:
+    - Added counting in objectives for mission 1, 2 and 3 
+    - Added new objective in mission 1 (connect the pipeline to the base)
+    - Added new objective in mission 2 (build laser turret, produce solid fuel)
+    - Added damaged base in mission 3 (you must find it first)
+    - Improved tech-tree for mission 3 to be more player friendly
+    - Improved resources for mission 2 and 3
+    - Increased time to finish the mission 3 - from 4 hours to 5 hours	
+    - You can now pack spawned cars to your inventory in missions 2 and 3, also in mission 1 after you finish second objective	
+  Bugfix:
+    - In mission 3, if you destroy steam turbines before enemy laser turrets, you will never finish the mission - This is now fixed
+    - In mission 1, if you destroy the car before completing the first objective, you will loose the game
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+    - In mission 4, if you destroy centrifuges before enemy assemblers, you will never finish the mission - I'm preparing fix
+    - Next update in sunday
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 2021.09.14
+  Changes:
+    - Added tech tree queue to all missions
+    - Switched player's laser-turrets to gun-turrets on starting base in mission 3	
+    - You can now pack spawned cars to your inventory in missions 2 and 3 	
+  Bugfix:
+    - Grammar correction in EN version (members of pirate faction are from space :D )
+    - Updated map on mission 2 to be more player friendly (mostly terrain details)
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+    - In mission 3, if you destroy steam turbines before enemy laser turrets, you will never finish the mission - I'm preparing fix
+    - In mission 4, if you destroy centrifuges before enemy assemblers, you will never finish the mission - I'm preparing fix
+    - I'm preparing some changes to final objectives in mission 2
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2021.09.12
+  Changes:
+    - New small logo
+    - Completely rebuilded the starting base in Mission 1 to be more player friendly for building
+    - Reduced or changed number of items in the chests in Mission 1
+    - Added CZ language for SK version (because they are similar)
+  Bugfix:
+    - Grammar correction in names and objectives in EN version
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+    - Please, contact me on the mod portal, if you find any bugs
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2021.09.10
+  Bugfix:
+    - Fixed the problem with mod instalation
+    - Fixed a minor grammar mistakes in EN version
+  Notes:
+    - Problem with incorrect showing the missions in NEW GAME menu 
+    - Please, contact me on the mod portal, if you find any bugs
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2021.09.08
+  Notes:
+    - First release test
+    - Please, contact me on the mod portal, if you find any bugs
+
